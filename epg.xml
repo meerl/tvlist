@@ -16119,6 +16119,9 @@
 	<programme channel="咪咕足球" start="20260704022000 +0800" stop="20260704035500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第18轮 上海玄鸟-张家口体文旅</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260704035500 +0800" stop="20260704040500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49758,6 +49761,15 @@
 	<programme channel="newtv超级综艺" start="20260704013100 +0800" stop="20260704022500 +0800">
 		<title lang="zh">16_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260704022500 +0800" stop="20260704031400 +0800">
+		<title lang="zh">17_启航：当风起时</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260704031400 +0800" stop="20260704035900 +0800">
+		<title lang="zh">18_启航：当风起时</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260704035900 +0800" stop="20260704052500 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49773,6 +49785,9 @@
 	<programme channel="newtv超级电影" start="20260704020500 +0800" stop="20260704035000 +0800">
 		<title lang="zh">养蜂人</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260704035000 +0800" stop="20260704052100 +0800">
+		<title lang="zh">妈妈你真棒</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49787,6 +49802,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260704021800 +0800" stop="20260704030400 +0800">
 		<title lang="zh">02_蝶影</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260704030400 +0800" stop="20260704034900 +0800">
+		<title lang="zh">03_蝶影</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260704034900 +0800" stop="20260704043400 +0800">
+		<title lang="zh">02_冤家亲家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50345,6 +50366,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260704015700 +0800" stop="20260704024000 +0800">
 		<title lang="zh">27_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260704024000 +0800" stop="20260704031500 +0800">
+		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260704031500 +0800" stop="20260704035900 +0800">
+		<title lang="zh">28_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260704035900 +0800" stop="20260704043900 +0800">
+		<title lang="zh">芪缘固阳有机黄芪片-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
